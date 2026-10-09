@@ -1,0 +1,13 @@
+{
+  "appId": "com.mrg.zamaninda",
+  "appName": "Zamanında",
+  "webDir": "www",
+  "android": { "backgroundColor": "#EDF1F0" },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_bell",
+      "iconColor": "#0E6E62",
+      "sound": "alarm.wav"
+    }
+  }
+}
